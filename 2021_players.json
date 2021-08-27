@@ -1,0 +1,16 @@
+{
+  "year":"2021",
+  "region":"lcs",
+  "teams":{
+    "cloud9":["blaber", "fudge", "perkz", "Vulcan (Philippe Laflamme)", "K1ng", "Zven"],
+    "team liquid":["alphari", "corejj", "jensen", "tactical", "santorin", "armao"],
+    "100 thieves":["closer (Can %C3%87elik)", "Ry0ma", "Abbedagge", "fbi", "huhi", "ssumday"],
+    "evil geniuses.na":["Danny (Kyle Sakamaki)", "ignar", "impact", "jiizuke", "svenskeren"],
+    "tsm":["huni", "lost", "powerofevil", "spica", "swordart"],
+    "flyquest":["diamond (David B%C3%A9rub%C3%A9)", "johnsun", "licorice", "palafox", "josedeodo", "nxi", "Dreams (Han Min-kook)"],
+    "golden guardians":["ablazeolive", "iconic", "newbie", "niles", "stixxay"],
+    "immortals":["joey", "keith", "potluck", "insanity", "revenge", "pretty", "topoon", "xerxe", "Destiny (Mitchell Shaw)", "raes"],
+    "counter logic gaming":["griffin (Raymond Griffin)", "pobelter", "smoothie", "solo (Colin Earnest)", "wildturtle", "Broxah", "Rjs", "Finn"],
+    "dignitas":["aphromoo", "dardoch", "fakegod", "neo (To%C3%A0n+Tr%E1%BA%A7n)", "soligo"]
+  }
+}
